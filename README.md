@@ -50,6 +50,12 @@
 - **진행 중:** 실제 생활체육 영상 기반의 데이터 구축 및 분석 품질 검증
 - **연구 방향:** 경기 이벤트 이해와 플레이 단위 탐색 경험의 고도화
 
+<p align="center">
+  <img src="assets/labeling-tool.jpg" alt="WeavePlay 검토 도구: 분석 후보를 프레임 단위로 확인하고 고치는 화면" width="860" />
+</p>
+
+<p align="center"><sub>Frame review tool · 분석 후보를 사람이 확인하고 고치는 화면</sub></p>
+
 정량 성능은 충분한 독립 검증을 거친 결과만 선별적으로 공개할 예정입니다.
 
 ---
